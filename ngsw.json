@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1786193278252,
+  "timestamp": 1786193658607,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -35,7 +35,7 @@
         "/3850.9129fd101ed03fe6.js",
         "/4171.20b815d83659f698.js",
         "/4183.c188a1842c58f8da.js",
-        "/4244.ffc00db05dad6639.js",
+        "/4244.5ce483bf15872964.js",
         "/4316.944b43ddd135708e.js",
         "/4406.0c739298e41f5566.js",
         "/441.8ee4ffc860e89a05.js",
@@ -84,11 +84,11 @@
         "/9977.b22f35a45c65dea5.js",
         "/common.b947b318c11f7cca.js",
         "/index.html",
-        "/main.37e8beeb931a3792.js",
+        "/main.e68db5885da63726.js",
         "/manifest.webmanifest",
         "/polyfills.06cbf0422dbf6c09.js",
-        "/runtime.88f2d1bff3e698bc.js",
-        "/styles.55e9a60b72b0f954.css"
+        "/runtime.8d03aa2509c769a5.js",
+        "/styles.62d3122c65db119d.css"
       ],
       "patterns": []
     },
@@ -148,7 +148,7 @@
     "/3850.9129fd101ed03fe6.js": "4bdf19a85b31c2ac8585a873fee50d1f2055021c",
     "/4171.20b815d83659f698.js": "1f2f0ead5e36da05785f9de252689ecb55d7f4ae",
     "/4183.c188a1842c58f8da.js": "23f1141e8d953fdc993db0ab0b77dee54bde4d5c",
-    "/4244.ffc00db05dad6639.js": "4128729a3b34e25e4db658b4b78497429a6ba24f",
+    "/4244.5ce483bf15872964.js": "4e75bfe44e1f8ed88c6dacbdaf33bd6e8c67d08c",
     "/4316.944b43ddd135708e.js": "1d654d198b80da65c3c9a28738843838c05967ae",
     "/4406.0c739298e41f5566.js": "658bbd7ef81f2dc14090dff8f2293826462e1206",
     "/441.8ee4ffc860e89a05.js": "934dfd33f3d4f342c637ec3ce01b8c1bc437453f",
@@ -214,12 +214,12 @@
     "/assets/promo/general-hardware-store-flyer.jpeg": "6678db335642d2956a7a36109a4547cd7769dbdf",
     "/assets/shapes.svg": "5413e95adabcb2cb639970051f55e0ddb64ace53",
     "/common.b947b318c11f7cca.js": "772eff50b2f7146cfac39f96b4b28f5a1fa5fd44",
-    "/index.html": "665cf5ce6ade0ce07510b493026232aaa338a709",
-    "/main.37e8beeb931a3792.js": "684be30ba12dcd3dfeccb637800891863f351df8",
+    "/index.html": "ca0c52cc0c8cc090643efa400fc9020e6f6a8178",
+    "/main.e68db5885da63726.js": "a7ef1c95178728f31cb50009cb87a281af077b0e",
     "/manifest.webmanifest": "92c09bd829bded200838c21852858f5556f052bb",
     "/polyfills.06cbf0422dbf6c09.js": "937619036a8b0ad87acb2897cc94f6eaedc45426",
-    "/runtime.88f2d1bff3e698bc.js": "fae0957248f73039eecb234af61177b1c8b0fa07",
-    "/styles.55e9a60b72b0f954.css": "428dbbc5beac449f1eb001f250365ca6df8e3e3e"
+    "/runtime.8d03aa2509c769a5.js": "0a0a3907880f65c0e58b896413234f16f0cc41ea",
+    "/styles.62d3122c65db119d.css": "002e6b8de2b954361761f8ba38cec337d700a14d"
   },
   "navigationUrls": [
     {
@@ -239,5 +239,5 @@
       "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
     }
   ],
-  "navigationRequestStrategy": "performance"
+  "navigationRequestStrategy": "freshness"
 }
